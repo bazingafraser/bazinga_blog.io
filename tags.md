@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tags（标签）"
+title: "Tags"
 description: "恭喜，你找到了bazinga的文章基因库"  
 header-img: "img/semantic.jpg"  
 ---
