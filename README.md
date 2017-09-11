@@ -1,10 +1,10 @@
 ##说明
 
-2016-02-29  更新 _config.yml 可用
+2017-09-11  更新 _config.yml 可用
 
 此博客 fork 自 [Azeril](http://azeril.me/)，感谢。
 
-##读立写生
+##页面介绍
 
 我是Bazinga，博客：[blog.bazingafraser.cn](blog.bazingafraser.cn)
 
